@@ -1,11 +1,11 @@
-# React Wrapper for tailwind modal
+# React Component Lib starter files setup with react,tailwind,storybook and tsdx.
 
-Compitable with react js and next js.
+build great compoinent ui with tailwindcss and react js.
 
 ## Installation Commands
 
 ```bash
-npm install @milon27/react-modal
+npm install milon27/name
 ```
 
 ### How to use
